@@ -1,0 +1,6 @@
+Flask>=3.0.3
+graphviz>=0.21.1
+gunicorn>=22.0.0
+wxPython>=4.2.3
+ply>=3.11
+colour>=0.1.5
